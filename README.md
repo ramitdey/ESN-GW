@@ -1,2 +1,2 @@
 # ESN-GW
-classification of gravitational waves using Echo state Neural Network
+We implement an Echo Memory Network (EMM) to detect gravitational wave (DW) signal embedded in noise. For this study we considered waveforms of slow evolving Extreme mass ratio inspiral and used Gaussian noise generated using the power spectral density of the space based LISA GW detectors. Since an Echo state neural networks (which is the essential building block of the EMN network) is particularly efficinet in dealing with slow evolving time series signal we found for these type of GW waveforms the network performs exceptionally well as compared to other RNN architectures.  
