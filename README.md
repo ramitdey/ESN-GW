@@ -5,6 +5,5 @@ While designing a Deep learning-based model that can detect faint GW signals bur
 We found for these types of GW waveforms the network performs exceptionally well compared to other Recurrent neural network architectures. 
 
 
-
-A typical GW waveform looks like
-![GW_waveform](https://github.com/ramitdey/ESN-GW/assets/51319756/16ad532b-da7d-46fe-ab17-b1aafe2fc778)
+A sample of the generated LISA noise that we used typically looks like
+![lisa_noise](https://github.com/ramitdey/ESN-GW/assets/51319756/7f164f0f-168c-4302-b058-06169a0e7704)
