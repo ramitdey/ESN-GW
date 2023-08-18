@@ -9,7 +9,7 @@ A sample of the generated LISA noise that we used typically looks like
 ![lisa_noise](https://github.com/ramitdey/ESN-GW/assets/51319756/8a13cf07-175c-49b9-8aa6-bf46b9bb143a)
 
 
-We used 4000 unique noise samples and another 4000 GW waveforms injected in another set of unique noise samples for training the classifier. For this particular study, we achieved a training accuracy of ~70%
+We used 4000 unique noise samples and another 4000 GW waveforms injected in another set of unique noise samples for training the classifier. 
 
 ## Reference
 
