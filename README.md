@@ -6,7 +6,7 @@ We found for these types of GW waveforms the network performs exceptionally well
 
 
 A sample of the generated LISA noise that we used typically looks like
-![lisa_noise](https://github.com/ramitdey/ESN-GW/assets/51319756/7f164f0f-168c-4302-b058-06169a0e7704)
+![lisa_noise](https://github.com/ramitdey/ESN-GW/assets/51319756/8a13cf07-175c-49b9-8aa6-bf46b9bb143a)
 
 
 We used 4000 unique noise samples and another 4000 GW waveforms injected in another set of unique noise samples for training the classifier. For this particular study, we achieved a training accuracy of ~70%
